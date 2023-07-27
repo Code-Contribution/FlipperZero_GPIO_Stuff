@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 <div align="center">
-  <img align="center" src="../.github/images/3d.png" />
+  <img align="center" src="https://github.com/CodyTolene/3D-Printing/blob/main/.github/images/3d.png" />
   <h2 align="center">Flipper Zero - CC1101 Board by TehRabbitt - Case</h2>
 </div>
 
